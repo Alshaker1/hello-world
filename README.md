@@ -1,5 +1,5 @@
 # hello-world
-guide
-hi!
 
-my name is abdullah!
+hi hoomans :D
+
+my name is Abdullah :3
